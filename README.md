@@ -2,7 +2,7 @@ This script primary target is rasperrypi with archlinux-arm connected to a large
 
 Dependencies:
 ```bash
-pacman -S xorg-server xorg-xinit xorg-apps xdotool ffmpeg some-font
+pacman -S xorg-server xorg-xinit xorg-apps xdotool graphicsmagick ffmpeg some-font
 ```
 
 Optional utility used to autostart X server over ssh without mouse of keyboard https://github.com/joukewitteveen/xlogin
